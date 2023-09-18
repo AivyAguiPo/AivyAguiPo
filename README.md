@@ -5,7 +5,7 @@
 Soy Front-End Developer Jr, apasionada del aprendizaje y una entusiasta de la tecnología, bachiller en Administración .
 Sin embargo, mi verdadera pasión se encuentra en el mundo de la programación y el desarrollo front-end. Desde que descubrí este emocionante campo, he estado comprometido/a en aprender y crecer constantemente.
 Una de mis fortalezas es mi capacidad para aprender rápidamente, lo que me permite abordar nuevos desafíos con confianza y entusiasmo.
-Estoy emocionado/a por lo que el futuro me depara en mi nueva carrera como programadora y espero conectarme con otros apasionados de la tecnología para aprender y crecer juntos.
+Estoy emocionada🤩por lo que me depara el futuro en mi nueva carrera como programadora y espero conectarme con otros apasionados de la tecnología para aprender y crecer juntos.
 
 ## 🪄💻 Conocimientos 
 
