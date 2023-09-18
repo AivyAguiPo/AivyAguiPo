@@ -1,4 +1,4 @@
-# ¡Hola Soy [Aivy]!👋
+# ¡Hola Soy Aivy!👋
 
 ## ✨Acerca de mí✨
 
