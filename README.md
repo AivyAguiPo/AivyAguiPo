@@ -9,7 +9,7 @@ Estoy emocionada🤩por lo que me depara el futuro en mi nueva carrera como prog
 
 ## 🪄💻 Conocimientos 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,jest,firebase,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,figma,nodejs,jest,firebase,github)](https://skillicons.dev)
 
 ## 🌐 Contactame 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivy-aguirre-443244141/)
